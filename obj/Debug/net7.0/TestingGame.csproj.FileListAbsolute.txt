@@ -1,0 +1,14 @@
+D:\i have\test2\TestingGame\bin\Debug\net7.0\TestingGame.exe
+D:\i have\test2\TestingGame\bin\Debug\net7.0\TestingGame.deps.json
+D:\i have\test2\TestingGame\bin\Debug\net7.0\TestingGame.runtimeconfig.json
+D:\i have\test2\TestingGame\bin\Debug\net7.0\TestingGame.dll
+D:\i have\test2\TestingGame\bin\Debug\net7.0\TestingGame.pdb
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.AssemblyInfoInputs.cache
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.AssemblyInfo.cs
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.csproj.CoreCompileInputs.cache
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.dll
+D:\i have\test2\TestingGame\obj\Debug\net7.0\refint\TestingGame.dll
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.pdb
+D:\i have\test2\TestingGame\obj\Debug\net7.0\TestingGame.genruntimeconfig.cache
+D:\i have\test2\TestingGame\obj\Debug\net7.0\ref\TestingGame.dll
